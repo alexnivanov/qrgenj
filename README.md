@@ -9,4 +9,4 @@ Run `./gradlew shadowJar` to produce executable jar in `build/libs` folder.
 
 ## How to run
 
-`java -jar build/libs/qrgenj-1.0-SNAPSHOT-all.jar INPUT [SIZE]`
+`java -jar build/libs/qrgenj-1.0-SNAPSHOT-all.jar INPUT [SIZE] [MARGIN]`
