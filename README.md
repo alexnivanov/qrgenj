@@ -1,6 +1,7 @@
 # QR Code Generator in Java
 
-Simple command line QR Code Generator written in Java
+Simple command line QR Code Generator written in Java.
+Based upon zxing library (https://github.com/zxing/zxing).
 
 ## How to build
 
