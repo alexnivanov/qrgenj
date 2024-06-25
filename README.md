@@ -3,6 +3,11 @@
 Simple command line QR Code Generator written in Java.
 Based upon zxing library (https://github.com/zxing/zxing).
 
+## Requirements
+
+Install Java:
+https://www.java.com/en/download
+
 ## How to build
 
 Run `./gradlew shadowJar` to produce executable jar in `build/libs` folder.
